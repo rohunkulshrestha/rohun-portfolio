@@ -133,7 +133,7 @@ export default function Home() {
                           transition-transform duration-300 ease-out
                           group-hover:scale-105">
             <img
-              src="/RohunKulshresthaGradPhoto.jpg"
+              src="/RohunKulshresthaGradPhoto.JPG"
               alt="Rohun Kulshrestha"
               className="object-cover w-full h-full"
             />
